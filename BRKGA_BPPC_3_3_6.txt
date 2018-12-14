@@ -1,0 +1,7 @@
+Alarm set: 0x7fffda4a1f50
+2.73438;214
+10.5469;213
+32.3438;212
+63.4219;211
+Alarm fired: (nil)
+timeout

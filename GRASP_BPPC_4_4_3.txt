@@ -1,0 +1,6 @@
+Alarm set: 0x7fffdd0ed670
+Academic license - for non-commercial use only
+12.4688;739.099
+63.125;738.1
+Alarm fired: 0xa
+timeout

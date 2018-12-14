@@ -1,0 +1,6 @@
+Alarm set: 0x7ffffc683320
+Academic license - for non-commercial use only
+0.21875;310.099
+0.3125;305.098
+0.5625;300.097
+300.097

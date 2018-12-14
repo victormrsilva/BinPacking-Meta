@@ -1,0 +1,5 @@
+### Parameter file for PARTICAO_NUMEROS
+# name		switch				type		values		[conditions (using R syntax)]
+grasp_max	"--MAX_ITER "		c  			(50, 100, 200, 300, 400)
+alpha		"--ALPHA "			c  			(0.05, 0.10, 0.20, 0.30, 0.40, 0.50, 0.60, 0.70)
+pBL		    "--PCT_BL "			c  			(0.1, 0.2, 0.3)

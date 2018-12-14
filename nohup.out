@@ -1,0 +1,2 @@
+execute.sh: 1: execute.sh: : not found
+execute.sh: 2: execute.sh: Syntax error: "&" unexpected
